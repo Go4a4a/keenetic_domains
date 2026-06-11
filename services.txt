@@ -1,0 +1,12 @@
+# Формат:
+# имя_готового_файла = geosite_список1, geosite_список2
+#
+# Слева будет output/<имя>.txt
+# Справа имена файлов из v2fly/domain-list-community/data
+
+telegram = telegram
+youtube = youtube
+instagram = instagram
+chatgpt = openai
+speedtest = category-speedtest
+public-tracker = category-public-tracker
